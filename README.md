@@ -1,8 +1,8 @@
 <div align="center">
-  <a href="https://youtu.be/qAUiahzraFw">
-    <img src="https://img.youtube.com/vi/qAUiahzraFw/0.jpg" alt="MiniCPM-V 4.7: The 1GB Vision AI That Destroys Qwen Vision!">
+  <a href="https://youtu.be/SQg5L6f50Bs">
+    <img src="https://img.youtube.com/vi/SQg5L6f50Bs/0.jpg" alt="MiniCPM-V 4.7: The 1GB Vision AI That Destroys Qwen Vision!">
   </a>
-  <h3>📺 <a href="https://youtu.be/qAUiahzraFw">Watch the full tutorial on YouTube</a></h3>
+  <h3>📺 <a href="https://youtu.be/SQg5L6f50Bs">Watch the full tutorial on YouTube</a></h3>
 </div>
 
 # 👁️ MiniCPM Visual Intelligence Studio
